@@ -1,0 +1,19 @@
+.tabuleiro{
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    border: 1px solid black;
+}
+
+.square{
+    width: 20px;
+    height: 20px;
+}
+
+.red{
+    background-color: red;
+}
+
+.black{
+    background-color: black;
+}
